@@ -13,7 +13,7 @@ function App() {
       <section className="Portfolio">
     
         <div className='Navbar'>
-          <div className='LOGO'> Portfolio </div>
+          <div className='LOGO'> SD </div>
           <div className='NavLists'>
             <Link to="/">Home</Link>
             <Link to="/About">About</Link>
